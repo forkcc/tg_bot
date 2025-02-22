@@ -1,0 +1,5 @@
+bot:
+  hook-url: https://bot.xxx.com/
+  username: 1
+  token: 1
+  welcome-text: 欢迎 @%s 加入群组
